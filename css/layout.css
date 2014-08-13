@@ -1,0 +1,39 @@
+#github {
+  padding-top: 220px;
+  position: relative;
+}
+
+.header {
+  line-height: 30%;
+  text-align: right;
+}
+
+.header .offset-by-ten {
+  padding-left: 600px;
+  line-height:10%;
+}
+
+.container .three.columns {
+  font-size: small;
+  font-weight: bold;
+  list-style: none;
+  text-indent: 20px;
+  width: 160px;
+}
+
+.container .offset-by-three {
+  margin-bottom: 20px
+  padding-left: 180px;
+}
+
+.centerstuff {
+  margin: center;
+  width: 100%;
+}
+
+.centerstuff .multiple {
+  display: inline-table;
+  line-height: 70%;
+  list-style: none;
+  text-align: left;
+}
