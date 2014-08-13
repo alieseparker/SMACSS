@@ -1,28 +1,6 @@
-* {
-  background-color: #efefef;
-  padding: 5px;
-}
-
-body {
-  margin: 0 auto;
-  width: 960px;
-}
-
-h2 {
-  text-decoration: underline;
-}
-
-hr {
-  border-bottom-style: 2px solid black;
-}
-
-p {
-  margin: 0;
-  padding: 10px;
-}
-
-p,a{
-  padding:12.5px;
+#github {
+  padding-top: 220px;
+  position: relative;
 }
 
 .header {
@@ -33,25 +11,6 @@ p,a{
 .header .offset-by-ten {
   padding-left: 600px;
   line-height:10%;
-}
-
-img.medresize {
-  float: left;
-  height:200px;
-}
-
-img.smresize{
-  height: 50px;
-  width: auto;
-}
-
-#github {
-  padding-top: 220px;
-  position: relative;
-}
-
-a:hover a:visited{
-  color: purple;
 }
 
 .container .three.columns {
@@ -76,10 +35,5 @@ a:hover a:visited{
   display: inline-table;
   line-height: 70%;
   list-style: none;
-  padding-left: 50px;
-  padding-right: 50px;
   text-align: left;
 }
-
-
-
